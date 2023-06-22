@@ -1,4 +1,5 @@
 # Description
 This is a test project to understand Git better.
 
-# Setup & Installation
+# Installation & Setup
+This sections will contain the installation & setup part.
